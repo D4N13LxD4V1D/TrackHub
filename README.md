@@ -1,7 +1,7 @@
 # TrackHub Mobile App
 
 This repository implements a React Native _client application_ for Apple/Google's [Exposure
-Notification](https://www.apple.com/covid19/contacttracing) framework using the open source solution of [COVID Shield](https://github.com/CovidShield). For more information on how this all works, read through the [TrackHub Rationale](https://github.com/D4N13LxD4V1D/TrackHub/tree/main/rationale).
+Notification](https://www.apple.com/covid19/contacttracing) framework derived from the open source implementation of [COVID Shield](https://github.com/CovidShield). For more information on how this all works, read through the [TrackHub Rationale](https://github.com/D4N13LxD4V1D/TrackHub/tree/main/rationale).
 
 - [Overview](#overview)
 - [User experience](#user-experience)
